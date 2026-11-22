@@ -19,4 +19,4 @@ export const supplyCategories = [
   { name: 'Office Stationery', description: 'Paper, writing materials, office consumables and accessories.', icon: 'office', count: 'Workplace' },
   { name: 'Building Materials', description: 'Construction materials, hardware and project supply items.', icon: 'building', count: 'Construction' },
   { name: 'General Procurement', description: 'Special sourcing for business, institutional and project needs.', icon: 'procurement', count: 'Custom sourcing' },
-];
+] as const;
