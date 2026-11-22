@@ -1,0 +1,3 @@
+import InteriorPage from '@/components/InteriorPage';
+import EnquiryForm from '@/components/EnquiryForm';
+export default function Contact(){return <InteriorPage eyebrow="CONTACT MOS" title="Start a conversation with our team." description="Send us a message about your supply needs, business enquiries or partnership opportunities."><div className="contact-layout"><div className="contact-details"><h2>Contact information</h2><p>Email</p><a href="mailto:info@megaorthoservices.ng">info@megaorthoservices.ng</a><p>Website</p><span>megaorthoservices.ng</span><p>Location</p><span>Nigeria</span><small>Official contact numbers and business address will be added after confirmation.</small></div><div className="form-wrap"><EnquiryForm/></div></div></InteriorPage>}
