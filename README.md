@@ -25,4 +25,4 @@ A responsive Next.js App Router website starter for MOS using React, TypeScript,
 - Confirm hosting, DNS and domain registration for `megaorthoservices.ng`.
 - Add real product catalogue content, images, prices if applicable, and inventory rules.
 - Perform accessibility, responsive, browser, SEO and security checks before deployment.
-
+- MOS website deployment verification update.
